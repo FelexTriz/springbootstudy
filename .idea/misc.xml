@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot_01_01_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_01_02_quickstart/springboot_01_03_quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_06_mybatis_plus/springboot_08_ssmp/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_08_ssmp/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot8/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot8/springboot09_config/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot09_config/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_10_profiles/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_13_configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_14_test/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_15_sql/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_15_sql/springboot_16_nosql/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_16_nosql/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springboot_01_01_quickstart/spring_01_04_quickstart/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SwUserDefinedSpecifications">
+    <option name="specTypeByUrl">
+      <map />
+    </option>
+  </component>
+</project>

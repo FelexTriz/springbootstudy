@@ -1,0 +1,11 @@
+server:
+  port: 84
+logging:
+  level:
+    root: info
+  file:
+    name: server.log
+  logback:
+    rollingpolicy:
+      max-file-size: 4KB
+      file-name-pattern: server.%d{yyyy-MM-dd}.%i.log

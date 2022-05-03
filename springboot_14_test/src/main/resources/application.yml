@@ -1,0 +1,10 @@
+test:
+  prop: testValue
+
+testcase:
+  book:
+    id: ${random.int}
+    id2: ${random.int(5,10)}
+    name: ${random.value}
+    uuid: ${random.uuid}
+    publishTime: ${random.long}

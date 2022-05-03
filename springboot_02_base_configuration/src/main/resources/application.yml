@@ -1,0 +1,20 @@
+server:
+  port: 81
+country: china
+province: beijing
+birthday: 1949
+user:
+ - name: fqj
+   age: 20
+ - name: zjx
+   age: 20
+
+basedir: c:\windows10
+tempDir: ${basedir}\temp
+likes: [musisc,fk]
+
+datasource:
+  driver: com.mysql:.jdbc.Driver
+  url: jdbc:mysql://localhost/springboot_db
+  username: root
+  password:

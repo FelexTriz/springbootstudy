@@ -1,0 +1,16 @@
+server:
+  port: 8808
+
+
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/ssm_db?ServerTimezone=UTC
+      username: root
+      password: fengqiji200
+
+mybatis-plus:
+  global-config:
+    db-config:
+      table-prefix:

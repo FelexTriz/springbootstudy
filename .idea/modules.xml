@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot09_config/springboot09_config.iml" filepath="$PROJECT_DIR$/springboot09_config/springboot09_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot8/springboot8.iml" filepath="$PROJECT_DIR$/springboot8/springboot8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_01_01_quickstart/springboot_01_01_quickstart.iml" filepath="$PROJECT_DIR$/springboot_01_01_quickstart/springboot_01_01_quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_08_ssmp/springboot_08_ssmp.iml" filepath="$PROJECT_DIR$/springboot_08_ssmp/springboot_08_ssmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_10_profiles/springboot_10_profiles.iml" filepath="$PROJECT_DIR$/springboot_10_profiles/springboot_10_profiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_13_configuration/springboot_13_configuration.iml" filepath="$PROJECT_DIR$/springboot_13_configuration/springboot_13_configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_14_test/springboot_14_test.iml" filepath="$PROJECT_DIR$/springboot_14_test/springboot_14_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_15_sql/springboot_15_sql.iml" filepath="$PROJECT_DIR$/springboot_15_sql/springboot_15_sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_16_nosql/springboot_16_nosql.iml" filepath="$PROJECT_DIR$/springboot_16_nosql/springboot_16_nosql.iml" />
+    </modules>
+  </component>
+</project>
