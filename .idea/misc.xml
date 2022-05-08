@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -16,6 +17,8 @@
         <option value="$PROJECT_DIR$/springboot_15_sql/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_15_sql/springboot_16_nosql/pom.xml" />
         <option value="$PROJECT_DIR$/springboot_16_nosql/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot19_cache/pom.xml" />
+        <option value="$PROJECT_DIR$/../byyl_lab2/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

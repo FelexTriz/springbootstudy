@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="byyl_lab2" />
         <module name="springboot_15_sql" />
         <module name="springboot_16_nosql" />
         <module name="springboot8" />
@@ -14,27 +15,19 @@
         <module name="springboot09_config" />
         <module name="springboot_13_configuration" />
         <module name="springboot_14_test" />
+        <module name="springboot19_cache" />
         <module name="springboot_08_ssmp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring_01_04_quickstart" target="17" />
       <module name="springboot04Junit" target="17" />
-      <module name="springboot09_config" target="17" />
-      <module name="springboot8" target="17" />
-      <module name="springboot_01_01_quickstart" target="17" />
       <module name="springboot_01_02_quickstart" target="17" />
       <module name="springboot_01_03_quickstart" target="1.8" />
       <module name="springboot_02_base_configuration" target="17" />
       <module name="springboot_05_mybatis" target="17" />
       <module name="springboot_06_mybatis_plus" target="17" />
-      <module name="springboot_08_ssmp" target="17" />
       <module name="springboot_0x_xxxxxxxx" target="17" />
-      <module name="springboot_10_profiles" target="17" />
-      <module name="springboot_13_configuration" target="17" />
-      <module name="springboot_14_test" target="17" />
-      <module name="springboot_15_sql" target="11" />
-      <module name="springboot_16_nosql" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -42,6 +35,7 @@
       <module name="spring_01_04_quickstart" options="-parameters" />
       <module name="springboot04Junit" options="-parameters" />
       <module name="springboot09_config" options="-parameters" />
+      <module name="springboot19_cache" options="-parameters" />
       <module name="springboot8" options="-parameters" />
       <module name="springboot_01_01_quickstart" options="-parameters" />
       <module name="springboot_01_02_quickstart" options="-parameters" />
